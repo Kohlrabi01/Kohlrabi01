@@ -1,7 +1,7 @@
 /*
 Script Author: DecoAri
-Fix Author: Hely-T
-Reference: https://raw.githubusercontent.com/Hely-T/Loon/master/Resource/Script/TestFlight/TF_keys.js
+Fix Author:Kohlrabi
+Reference: https://raw.githubusercontent.com/Kohlrabi/Loon/master/Resource/Script/TestFlight/TF_keys.js
 Các bước sử dụng cụ thể
 1: Nhập trình cắm
 2: Vào trang Mitm để kích hoạt Mitm qua Http2
